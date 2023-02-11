@@ -1,4 +1,4 @@
-# token-grabbbe-discord
+# token-grabbber-discord
 token grabber discord made by farzad team! for free
 
 
